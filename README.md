@@ -1,4 +1,4 @@
-# <--Project Title-->
+# ✨ <--Project Title-->
 # 📝 Table of Contents
 - <--List Down all contents of docs-->
 
@@ -15,12 +15,12 @@
 - <--List down all tech stack used in development of the project-->
 
 # 💸 Tentative Finance Report
-- <--List down all finance involved in project>
+- <--List down all finance involved in project-->
 
 # ✍️ Contributors
-- <--List down all contributors of the projects>
+- <--List down all contributors of the projects-->
 
 # 🎉 Acknowledgements
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- <--Hat tip to anyone whose code was used-->
+- <--Inspiration-->
+- <--References-->
